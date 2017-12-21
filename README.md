@@ -5,7 +5,7 @@
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
   ```
   $ cd resources/lang/
-  $ git clone https://github.com/ ./pt-PT
+  $ git clone https://github.com/alexandre1985/laravel-5.5-locale-pt-PT.git ./pt-PT
   ```
   
   Pode remover a pasta .git.
