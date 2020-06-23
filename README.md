@@ -1,3 +1,6 @@
+( this repository now lives at [https://gitlab.com/alexandre1985/laravel-5.5-locale-pt-PT/](https://gitlab.com/alexandre1985/laravel-5.5-locale-pt-PT/) )
+
+
 #  Linguagem do Laravel 5.5 - Português de Portugal
 
 ## Instalação
